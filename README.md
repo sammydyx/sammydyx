@@ -1,8 +1,8 @@
 # Hi there, I'm **Sammy (Yingxin) Deng** 👋
 
-I'm currently studying **Statistics** (Major) and **Computer Science** (Minor) at **UC Berkeley** 🐻.  
-Before diving into data and algorithms, I worked in **warehouse operations & management**, optimizing cross-border e-commerce systems.  
-Now, I'm passionate about bridging **real-world logistics** and **data science**, one dataset at a time 🚀.
+- I'm currently studying **Statistics** (Major) and **Computer Science** (Minor) at **UC Berkeley** 🐻.  
+- Before diving into data and algorithms, I worked in **warehouse operations & management**, optimizing cross-border e-commerce systems.  
+- Now, I'm passionate about bridging **real-world logistics** and **data science**, one dataset at a time 🚀.
 
 ---
 
