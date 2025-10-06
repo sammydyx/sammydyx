@@ -29,8 +29,8 @@ Now, I'm passionate about bridging **real-world logistics** and **data science**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
 ### **Data Science / ML**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
