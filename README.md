@@ -1,4 +1,4 @@
-# Hi there, I'm **Yingxin Deng** 👋
+# Hi there, I'm **Sammy (Yingxin) Deng** 👋
 
 I'm currently studying **Statistics** (Major) and **Computer Science** (Minor) at **UC Berkeley** 🐻.  
 Before diving into data and algorithms, I worked in **warehouse operations & management**, optimizing cross-border e-commerce systems.  
@@ -55,6 +55,6 @@ Now, I'm passionate about bridging **real-world logistics** and **data science**
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://github.com/sammydyx))  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammydyx@berkeley.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/sammydyx) -https://github.com/sammydyx
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammydyx@berkeley.edu) - sammydyx@berkeley.edu
 
