@@ -1,36 +1,60 @@
-<h1 align="center">Hi 👋, I'm Yingxin Deng</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+# Hi there, I'm **Yingxin Deng** 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammydyx&label=Profile%20views&color=0e75b6&style=flat" alt="sammydyx" /> </p>
+I'm currently studying **Statistics** (Major) and **Computer Science** (Minor) at **UC Berkeley** 🐻.  
+Before diving into data and algorithms, I worked in **warehouse operations & management**, optimizing cross-border e-commerce systems.  
+Now, I'm passionate about bridging **real-world logistics** and **data science**, one dataset at a time 🚀.
 
-- 📫 How to reach me **sammydyx@berkeley.edu**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sammy (yingxin) deng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sammy (yingxin) deng" height="30" width="40" /></a>
-</p>
+## 🔬 Interests
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Data Analysis & Visualization  
+- Statistical Modeling & Inference  
+- Machine Learning for Business & Operations  
+- Optimization & Decision Science
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammydyx&show_icons=true&locale=en&layout=compact" alt="sammydyx" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammydyx&show_icons=true&locale=en" alt="sammydyx" /></p>
+## 🤝 I’m open to
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammydyx&" alt="sammydyx" /></p>
-## Hi there 👋
+- Collaboration on data analysis / ML projects  
+- Internships or research opportunities related to Statistics, Data Science, or CS  
+- Contributing to open-source projects
 
-<!--
-**sammydyx/sammydyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat)
+![Shell](https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
+
+### **Data Science / ML**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Yingxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YingxinDeng&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YingxinDeng&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
