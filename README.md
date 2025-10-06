@@ -55,6 +55,6 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/sammydyx) -https://github.com/sammydyx
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammydyx@berkeley.edu) - sammydyx@berkeley.edu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/sammydyx) https://github.com/sammydyx
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammydyx@berkeley.edu) sammydyx@berkeley.edu
 
